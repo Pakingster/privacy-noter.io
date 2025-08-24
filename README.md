@@ -1,2 +1,2 @@
 # privacy-noter.io
-Privacy docs for Noter App
+Temporary Github pages for the Privacy doc for Noter App - must be published for App push to store
