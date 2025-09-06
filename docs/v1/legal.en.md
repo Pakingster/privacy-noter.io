@@ -1,7 +1,6 @@
-last_updated: 2025-08-27
 ---
-title: Privacy Policy
-description: Privacy Policy for the TempSense mobile application
+title: Legal (EN)     # adjust per locale
+layout: default
 ---
 
 <h1 id="privacy-policy">Privacy Policy</h1>
@@ -250,4 +249,5 @@ description: User Agreement for the TempSense mobile application
   <p>
     Depending on your location, additional terms or disclosures may apply. Where required by law, we will provide localized notices or obtain consent as applicable.
   </p>
+
 </details>
